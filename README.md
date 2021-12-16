@@ -9,7 +9,7 @@ Accurate wind speed forecasting is a fundamental requirement for advanced and ec
 FIGURE 1. The proposed architecture. A quaternion representation of stationary wavelet subbands is used to train a quaternion-valued neural network. The predicted wind speed is computed by using the inverse stationary wavelet transform
 
 ## Getting started
-1. Download all files and put then in the same folder. 
+1. Download all files and put them in the same folder. 
 2. Add the folder to you MATLAB's path. 
 3. Run the mfile [main.m](https://github.com/LyesSaadSaoud/Wind_forecast/blob/main/main.m) 
 
