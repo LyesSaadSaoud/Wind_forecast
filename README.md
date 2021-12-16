@@ -11,6 +11,6 @@ FIGURE 1. The proposed architecture. A quaternion representation of stationary w
 ## Getting started
 1. Download all files and put then in the same folder. 
 2. Add the folder to you MATLAB's path. 
-3. Run the mfile main.m 
+3. Run the mfile [main.m](https://github.com/LyesSaadSaoud/Wind_forecast/blob/main/main.m) 
 
 Please cite it as: L. S. Saoud, H. Al-Marzouqi and M. Deriche, "Wind Speed Forecasting Using the Stationary Wavelet Transform and Quaternion Adaptive-Gradient Methods," in IEEE Access, vol. 9, pp. 127356-127367, 2021, doi: 10.1109/ACCESS.2021.3111667.
